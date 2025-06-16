@@ -55,6 +55,19 @@ Model performance was evaluated using accuracy, precision, recall, and AUC-ROC.
 * The Decision Tree model generally showed the lowest performance.
 * Cross-validation confirmed the robustness of Random Forest, Logistic Regression, and SVM on unseen data.
 
+## Repository Contents
+
+This repository contains the following key files:
+
+```bash
+📁 project/
+├── heart.csv/                     # Raw dataset
+├── KIME_GROUP_4.knwf              # Knime workflow
+├── GROUP_4_REPORT.pdf/            # PDF of final report
+└── README.md                      # This file
+```
+
+
 ## Conclusion
 
 Machine learning shows significant potential as a supplementary tool for early heart disease diagnosis. The Random Forest model proved to be the most effective classifier in this study, demonstrating high accuracy and robust performance. Future work could explore more advanced models and expanded datasets.
