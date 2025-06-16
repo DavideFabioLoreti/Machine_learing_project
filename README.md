@@ -20,6 +20,8 @@ Early detection of heart disease is crucial. This study investigates how machine
 
 The project uses a Kaggle dataset containing 1025 patient records with 14 features, including age, sex, chest pain type, blood pressure, cholesterol, and other diagnostic indicators.
 
+You can find the dataset on [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data).
+
 ## Preprocessing
 
 Key preprocessing steps included:
